@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:21:57	699327/699327	---MCZ	200	added ('OK')	text/html	etag:W/%22aabbf-Gy38xIko8jjpTqo2/FIE+A%22	https://justdancenow.com/	C:/Users/winzk/Desktop/JustDN%20Proxy/justdancenow.com/index.html	(from )
+00:21:57	23/23	---M--	200	added ('OK')	text/plain	etag:W/%2217-17faba49b70%22	https://justdancenow.com/robots.txt		(from )
